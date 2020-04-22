@@ -111,9 +111,7 @@ footer {
     Add a CSS ruleset targeting the starters and desserts sections to accomplish the following:
     - draw a 2px black border around the sections
 */
- section {
+ #starters, #desserts {
  border: 2px black solid;
 }
- #soupssalads, #entrees {
-     border: none;
-}
+ 
